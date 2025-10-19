@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Aspiring Software Developer & AI Enthusiast | BSc CS Program, ARSD College, University of Delhi</h3>
+<h3 align="center">Aspiring Software Developer & AI Enthusiast</h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshna044&label=Profile%20views&color=0e75b6&style=flat" alt="harshna044" /> </p>
