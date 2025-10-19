@@ -14,11 +14,7 @@
 
 <h3 align="left">About Me:</h3>
 <p>
-Currently pursuing BSc CS Program at ARSD College, University of Delhi, aspiring to become a skilled Software & Web Developer. Contributor at GSSOC'25 and participant in the Google Cloud Arcade Facilitator Program, with hands-on experience in open-source and hosting static websites on AWS.
-</p>
-<p>
-Skilled in C++ (3 HackerRank), Python, SQL, HTML, CSS, JavaScript, and Figma. Academic exposure to Software Engineering, Data Engineering & Analytics, Data Visualization Techniques, Cloud Computing, Data Structures, and Tkinter.
-</p>
+Currently pursuing BSc CS Program at ARSD College, University of Delhi, aspiring to become a skilled Software & Web Developer.</p>
 <p>
 Passionate about applying my skills to solve real-world problems and make meaningful contributions. I aim to grow as a developer and serve the community through technology.
 </p>
