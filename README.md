@@ -1,52 +1,93 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Aspiring Software Developer & AI Enthusiast</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h3 align="center">A passionate Software Developer & AI enthusiast from New Delhi, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshna044&label=Profile%20views&color=0e75b6&style=flat" alt="harshna044" /> </p>
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/HarshNA044)
-
-<h3 align="left">Achievements & Programs:</h3>
-<ul>
-    <li>GSSOC'25 Contributor (NPMChat)</li>
-    <li>Google Cloud Arcade Facilitator</li>
-</ul>
-
-<h3 align="left">About Me:</h3>
-<p>
-Currently pursuing BSc CS Program at ARSD College, University of Delhi, aspiring to become a skilled Software & Web Developer.</p>
-<p>
-Passionate about applying my skills to solve real-world problems and make meaningful contributions. I aim to grow as a developer and serve the community through technology.
+<p align="center">
+  <a href="https://linkedin.com/in/harsh044" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshna63@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Top Skills:</h3>
-<ul>
-    <li>Python (Programming Language)</li>
-    <li>Front-End Development</li>
-    <li>Figma (UI/UX Design)</li>
-    <li>Open Source Contribution</li>
-    <li>AWS Cloud Computing</li>
-</ul>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
-</a>
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harsh044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh044" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshna044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshna044" height="30" width="40" /></a>
+- 🎓 Pursuing **B.Sc. Physical Science with Computer Science** at Atma Ram Sanatan Dharma College, University of Delhi (2023 – 2027)
+- 💡 Deeply interested in **Artificial Intelligence**, **Prompt Engineering**, and **Full-Stack Development**
+- 🛠️ Experienced in front-end development and building AI-powered tools
+- 📢 Campus Ambassador at **Physics Wallah (PW)** — generated 25 Lakhs+ INR in revenue through digital marketing
+- 🌱 Currently exploring LangChain, FastAPI, and Generative AI applications
+- 🏆 Finalist at **Pitchcraft Hackathon 2025** (IEEE GTB4CEC Student Branch)
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshna044&show_icons=true&locale=en&layout=compact" alt="harshna044" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshna044&show_icons=true&theme=radical&locale=en" alt="harshna044" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshna044&" alt="harshna044" /></p>
+---
 
+### 🧰 Skills & Tools
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+
+**Tools**
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+#### 🔹 Infinitium Society Website
+**React 18** web portal for managing fests, event itineraries, and student inquiries — built solo, with automated QR-based attendance tracking and unified data workflows.
+`React 18` `Google AI Studio` `Prompt Engineering`
+
+#### 🔹 Web Code Editor
+Browser-based code evaluation tool with a tabbed dynamic viewport engine, live iframe previews, and client-side script listeners — no server-side processing lag.
+`HTML5` `CSS3` `JavaScript`
+
+---
+
+### 💼 Experience
+
+**Campus Ambassador** @ Physics Wallah (PW) — *Nov 2024 – Present*
+**Frontend Web Development Intern** @ Edunet Foundation (AICTE) — *Aug 2025 – Sep 2025*
+
+---
+
+### 🎖️ Certifications
+
+- Google AI Essentials (Coursera)
+- Google Prompting Essentials (Coursera)
+- Google Cloud Skill Badge — Introduction to Generative AI
+- HackerRank SQL (Intermediate) Certification
+- Introduction to Figma (Simplilearn)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshna044&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshna044&theme=radical" alt="Harsh's GitHub Streak" />
+</p>
+
+<p align="center">
+  📫 Reach me at <b>harshna63@gmail.com</b>
+</p>
