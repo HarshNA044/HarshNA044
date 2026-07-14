@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate Software Developer & AI enthusiast from New Delhi, India</h3>
+<h3 align="center">A passionate AI enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/harsh044" target="_blank">
@@ -15,7 +15,7 @@
 ### 🚀 About Me
 
 - 🎓 Pursuing **B.Sc. Physical Science with Computer Science** at Atma Ram Sanatan Dharma College, University of Delhi (2023 – 2027)
-- 💡 Deeply interested in **Artificial Intelligence**, **Prompt Engineering**, and **Full-Stack Development**
+- 💡 Deeply interested in **Artificial Intelligence**, **Prompt Engineering**, and **Machine Learning**
 - 🛠️ Experienced in front-end development and building AI-powered tools
 - 📢 Campus Ambassador at **Physics Wallah (PW)** — generated 25 Lakhs+ INR in revenue through digital marketing
 - 🌱 Currently exploring LangChain, FastAPI, and Generative AI applications
@@ -34,8 +34,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -66,6 +64,7 @@ Browser-based code evaluation tool with a tabbed dynamic viewport engine, live i
 ### 💼 Experience
 
 **Campus Ambassador** @ Physics Wallah (PW) — *Nov 2024 – Present*
+
 **Frontend Web Development Intern** @ Edunet Foundation (AICTE) — *Aug 2025 – Sep 2025*
 
 ---
@@ -79,10 +78,6 @@ Browser-based code evaluation tool with a tabbed dynamic viewport engine, live i
 - Introduction to Figma (Simplilearn)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshna044&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshna044&theme=radical" alt="Harsh's GitHub Streak" />
