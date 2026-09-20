@@ -17,7 +17,6 @@
 - 🎓 Pursuing **B.Sc. Physical Science with Computer Science** at Atma Ram Sanatan Dharma College, University of Delhi (2023 – 2027)
 - 💡 Deeply interested in **Artificial Intelligence**, **Prompt Engineering**, and **Machine Learning**
 - 🛠️ Experienced in front-end development and building AI-powered tools
-- 📢 Campus Ambassador at **Physics Wallah (PW)** — generated 25 Lakhs+ INR in revenue through digital marketing
 - 🌱 Currently exploring LangChain, FastAPI, and Generative AI applications
 - 🏆 Finalist at **Pitchcraft Hackathon 2025** (IEEE GTB4CEC Student Branch)
 
@@ -62,8 +61,6 @@ Browser-based code evaluation tool with a tabbed dynamic viewport engine, live i
 ---
 
 ### 💼 Experience
-
-**Campus Ambassador** @ Physics Wallah (PW) — *Nov 2024 – Present*
 
 **Frontend Web Development Intern** @ Edunet Foundation (AICTE) — *Aug 2025 – Sep 2025*
 
