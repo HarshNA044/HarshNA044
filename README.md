@@ -47,7 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>Tools
+</p><b>Tools</b>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -67,15 +67,20 @@
 **React 18** web portal for managing fests, event itineraries, and student inquiries — built solo, with automated QR-based attendance tracking and unified data workflows.
 `React 18` `Google AI Studio` `Prompt Engineering`
 
-#### 🔹 Web Code Editor
+#### 🔹 The Last-Minute Life Saver
 Browser-based code evaluation tool with a tabbed dynamic viewport engine, live iframe previews, and client-side script listeners — no server-side processing lag.
-`HTML5` `CSS3` `JavaScript`
+`Google AI Studio` `AI Integration` `Prompt Engineering`
 
 ---
 
 ### 💼 Experience
 
 **Frontend Web Development Intern** @ Edunet Foundation (AICTE) — *Aug 2025 – Sep 2025*
+
+- Completed structured training in HTML, CSS and JavaScript.
+- Developed a browser-based code editor as the primary project.
+- Applied frontend development practices to build the application.
+- Deployed the completed application to Vercel.
 
 ---
 
@@ -91,6 +96,7 @@ Built an AI-powered productivity companion using Google AI Studio, integrating A
 
 ### 🎖️ Certifications
 
+- AI/ML for Geodata Analytics (IIRS Dehradun ISRO)
 - Google AI Essentials (Coursera)
 - Google Prompting Essentials (Coursera)
 - Google Cloud Skill Badge — Introduction to Generative AI
