@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack
 
-Languages
+<b>Programming Languages</b>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -33,7 +33,7 @@ Languages
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-</p>AI / ML & Data
+</p><b>AI / ML & Data</b>
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
@@ -42,7 +42,7 @@ Languages
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
   <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio">
-</p>Web Development
+</p><b>Web Development</b>
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
@@ -58,6 +58,7 @@ Languages
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blogger">
 </p>
+
 ---
 
 ### 📌 Featured Projects
@@ -75,6 +76,16 @@ Browser-based code evaluation tool with a tabbed dynamic viewport engine, live i
 ### 💼 Experience
 
 **Frontend Web Development Intern** @ Edunet Foundation (AICTE) — *Aug 2025 – Sep 2025*
+
+---
+
+### 🏆 Achievement
+
+**Finalist — Pitchcraft Hackathon 2025**
+
+*IEEE GTB4CEC Student Branch | Team Caffeine-Corrupt*
+
+Built an AI-powered productivity companion using Google AI Studio, integrating AI-driven task prioritization, scheduling, reminders, calendar integration, and autonomous task planning. Contributed to the AI integration, application development, and implementation of core productivity features.
 
 ---
 
