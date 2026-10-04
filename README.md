@@ -90,8 +90,10 @@ Browser-based code evaluation tool with a tabbed dynamic viewport engine, live i
 
 *IEEE GTB4CEC Student Branch | Team Caffeine-Corrupt*
 
-Built an AI-powered productivity companion using Google AI Studio, integrating AI-driven task prioritization, scheduling, reminders, calendar integration, and autonomous task planning. Contributed to the AI integration, application development, and implementation of core productivity features.
-
+- Developed an AI-powered rental platform to solve uncertainty and trust issues in the rental ecosystem.
+- Built using Next.js, FastAPI, Supabase, tech with features like AI matching, rental DNA score, and verified listings.
+- Collaborated as part of team CAFFeINE-CORRUPT to create a prototype aimed at transforming rental experiences through transparency.
+  
 ---
 
 ### 🎖️ Certifications
