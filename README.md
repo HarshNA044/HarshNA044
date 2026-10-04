@@ -17,7 +17,7 @@
 - 🎓 Pursuing **B.Sc. Physical Science with Computer Science** at Atma Ram Sanatan Dharma College, University of Delhi (2023 – 2027)
 - 💡 Deeply interested in **Artificial Intelligence**, **Prompt Engineering**, and **Machine Learning**
 - 🛠️ Experienced in front-end development and building AI-powered tools
-- 🌱 Currently exploring LangChain, FastAPI, and Generative AI applications
+- 🌱 Currently exploring Machine Learning, LangChain and Generative AI applications
 - 🏆 Finalist at **Pitchcraft Hackathon 2025** (IEEE GTB4CEC Student Branch)
 
 ---
@@ -33,21 +33,29 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-</p><b>AI / ML & Data</b>
+</p>
+
+<b>AI / ML & Data</b>
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain">
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio">
-</p><b>Web Development</b>
+</p>
+
+<b>Web Development</b>
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-</p><b>Tools</b>
+</p>
+
+<b>Tools</b>
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
